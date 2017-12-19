@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="list">
+        <item>zhangsan</item>
+        <item>lisi</item>
+        <item>wangwu</item>
+    </string-array>
+</resources>
